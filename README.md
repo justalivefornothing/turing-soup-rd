@@ -1,16 +1,19 @@
 # Turing Soup RD
 
-A GPU Gray-Scott reaction-diffusion playground with an F-k parameter explorer.
+GPU Gray-Scott reaction-diffusion playground with an F–k parameter pad, paintable chemicals, and bioluminescent color maps.
 
 ## Features
 
-- Real-time Gray-Scott reaction-diffusion on the GPU
-- Interactive F-k parameter space
-- Pattern exploration and visual feedback
+- Real-time Gray-Scott simulation on the GPU
+- Interactive F / k parameter explorer
+- Paint chemicals onto the field
+- Bioluminescent-style color maps
 
-## Status
+## Run
 
-See `PLAN.md` for architecture and remaining milestones.
+Open the project entry (static HTML or `npm run dev` if packaged).
+
+Requires WebGL.
 
 ## License
 
